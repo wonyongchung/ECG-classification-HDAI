@@ -2,7 +2,7 @@
 
 ## Model Architecture
 
-<img src="https://github.com/17011813/ECG-classification-HDAI-2021/blob/main/%EA%B7%B8%EB%A6%BC.png?raw=true" width="500">
+<img src="https://github.com/wonyongchung/ECG-classification-HDAI/blob/main/%5B%EC%A3%BC%EC%A0%9C2.%20%EC%95%84%EA%B8%B0%EB%8F%8C%EA%B3%A0%EB%9E%98%5D/img/%EC%BA%A1%EC%B2%981.PNG" width="500">
 
 > 모델 전체 구조입니다.
 
